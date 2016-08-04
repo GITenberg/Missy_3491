@@ -1,0 +1,24 @@
+_repo: Missy_3491
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gatlin, Dana
+    birthdate: 1884
+    deathdate: 1940
+    gutenberg_agent_id: '1215'
+    url: http://www.gutenberg.org/2009/agents/1215
+description: ''
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Missy
+url: http://www.gutenberg.org/ebooks/3491
